@@ -1,10 +1,10 @@
 Atividades revisão Mano Gilbas ("As não contidas aqui estão na pasta nesse mesmo repositório")
 2 - Temos 3 formas de estilizar nosso código sendo elas: o Inline ( Aplicando o estilo em extremidades específicas do código), o Interno (Utilizado para páginas HTML inteiras) e o externo(Armazenado em arquivo separado .css para várias páginas HTML)
 
-Inline:<p style="color: blue; text-align: center;"></p>
+Inline: //<p style="color: blue; text-align: center;"></p>
 
 Interno:
-<style>
+//<style>
 body{
     color: red;
     background-image: -o-linear-gradient();
