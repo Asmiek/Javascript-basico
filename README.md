@@ -30,7 +30,7 @@ h1 {
 
 ///////////////////////////
 
-5 a lista <ol> é ordenada, ou seja, a ordem importa, como um passo a passo. Já a lista <ul> é não ordenada, ou seja a ordem não importa, como uma listagem de itens
+5 - a lista <ol> é ordenada, ou seja, a ordem importa, como um passo a passo. Já a lista <ul> é não ordenada, ou seja a ordem não importa, como uma listagem de itens
 
 Ordenada 
 <ol>
